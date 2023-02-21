@@ -13,5 +13,4 @@ var containsDuplicate = function (nums) {
         return true;
     }
 };
-
 containsDuplicate(nums);
