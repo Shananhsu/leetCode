@@ -1,4 +1,5 @@
-題目網址: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+121. Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 在一個陣列中 找到相減的最大值
 只可以後面的減前面的,不可以前面的減後面的
